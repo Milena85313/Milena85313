@@ -1,0 +1,120 @@
+body{
+	margin: 0px;
+}
+
+#nagl{
+	font-size: 80px;
+	text-align: center;
+	color: white;
+	background-color: #339900;
+	padding: 50px;
+}
+
+ul{
+	list-style-type:none;
+	margin: 0;
+	padding: 0;
+	overflow: hidden;
+	background-color: #333;
+	
+}
+
+li{
+	float: left;
+}
+
+li a{
+	display: block;
+	color: white;
+	text-align: center;
+	padding: 20px 20px;
+	text-decoration: none;
+}
+
+li a:hover:not(.podkresl){
+	background-color: #111;
+}
+
+.podkresl{
+	background-color: #04AA6D;
+}
+
+.wieksze{
+	font-size: 20px;
+	margin:30px;
+}
+
+.srodek{
+	text-align:center;
+}
+
+.zdj{
+	margin-left:570px;
+	margin-bottom:65px;
+}
+
+.wiek{
+	margin-left:590px;
+	font-size:20px;
+}
+
+.xx{
+	display:inline;
+}
+
+#ods1{
+	font-size:20px;
+	margin-left:376px;
+}
+
+#ods2{
+	font-size:20px;
+	margin-left:180px;
+}
+
+#ods3{
+	margin-left:380px;
+}
+
+#woj{
+	text-align:center;
+	font-size:20px;
+	padding-top:50px;
+	color:#3399ff;
+}
+
+#ods4{
+	margin-left:400px;
+}
+
+#ods5{
+	margin-left:180px;
+}
+
+.bokl{
+	text-align:left;
+}
+
+.ods6{
+	margin-left:280px;
+}
+
+#sr{
+	color:#339900;
+}
+
+.kolor{
+	color:#3399ff;
+}
+
+.tur{
+	color:#996666;
+}
+
+.kolorek{
+	color: #339900;
+}
+
+body{
+	font-family:Comic Sans MS;
+}
